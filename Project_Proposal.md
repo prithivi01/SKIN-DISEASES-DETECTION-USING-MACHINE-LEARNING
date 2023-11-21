@@ -1,6 +1,4 @@
 # Capstone Project Proposal
-#### *by David Soto*  - dasoto@gmail.com
-@Galvanize Data Science Immersive Program
 ## CNN to identify malign moles on skin
 ### 1. Project Summary and motivation
 The purpose of this project is to create a tool that considering the image of a
